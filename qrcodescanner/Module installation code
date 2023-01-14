@@ -1,0 +1,3 @@
+Code for importing cv2 - pip install opencv-python
+Code for importing pyzbar - pip install pyzbar
+Code for importing date time module - pip install datetime
